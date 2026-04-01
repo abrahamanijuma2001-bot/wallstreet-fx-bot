@@ -1,0 +1,2 @@
+# wallstreet-fx-bot
+Kadumafx 
